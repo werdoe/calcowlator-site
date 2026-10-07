@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 210" width="200" height="210">
+  <title>CalcOwlator owl, waving hello</title>
+  <path d="M166 114 C190 96 196 66 188 46 C176 72 160 90 144 102 Z" fill="#08584C"/>
+  <path d="M184 28 q11 8 9 22 M174 18 q12 2 17 12" stroke="#F2A33A" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M52 56 L44 16 L84 42 Z" fill="#0B6E5F"/>
+  <path d="M148 56 L156 16 L116 42 Z" fill="#0B6E5F"/>
+  <path d="M100 26 C152 26 174 72 174 122 C174 168 142 194 100 194 C58 194 26 168 26 122 C26 72 48 26 100 26 Z" fill="#0B6E5F"/>
+  <path d="M30 120 C20 150 36 176 58 182 C46 160 44 138 48 116 Z" fill="#08584C"/>
+  <ellipse cx="100" cy="94" rx="62" ry="46" fill="#E3F2EE"/>
+  <ellipse cx="100" cy="158" rx="40" ry="28" fill="#D2E9E2"/>
+  <path d="M84 148 l6 6 l6 -6 M104 148 l6 6 l6 -6 M94 164 l6 6 l6 -6" stroke="#0B6E5F" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+  <circle cx="72" cy="82" r="21" fill="#FFFFFF"/>
+  <circle cx="74" cy="83" r="10" fill="#16181D"/>
+  <circle cx="77" cy="79" r="3.2" fill="#FFFFFF"/>
+  <circle cx="128" cy="106" r="21" fill="#FFFFFF"/>
+  <circle cx="126" cy="105" r="10" fill="#16181D"/>
+  <circle cx="129" cy="101" r="3.2" fill="#FFFFFF"/>
+  <path d="M88 126 L112 60" stroke="#F2A33A" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="84" cy="196" rx="11" ry="5" fill="#F2A33A"/>
+  <ellipse cx="116" cy="196" rx="11" ry="5" fill="#F2A33A"/>
+</svg>
